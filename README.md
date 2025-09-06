@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharaneesh Natarajan</h1>
-<h3 align="center">Aspiring Software Engineer | Java & Python Enthusiast | Beginner in Web Development</h3>
+<h3 align="center">Aspiring Software Engineer | Java & Python Enthusiast | Frontend Development</h3>
 
 ---
 
